@@ -5,18 +5,6 @@
   "tokens": [
     [
       {
-        "name": "NILE Token",
-        "address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
-        "symbol": "NILE",
-        "decimals": 18
-      },
-      {
-        "name": "Escrowed NILE Token",
-        "address": "0xAAAE58986b24e422740C8F22B3efB80BCbD68159",
-        "symbol": "xNILE",
-        "decimals": 18
-      },
-      {
         "name": "USD Coin",
         "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
         "symbol": "USDC",
@@ -33,12 +21,6 @@
         "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
         "symbol": "USDT",
         "decimals": 6
-      },
-      {
-        "name": "LUBE",
-        "symbol": "LUBE",
-        "address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
-        "decimals": 18
       },
       {
         "name": "Wrapped Bitcoin",
@@ -58,24 +40,14 @@
         "symbol": "wstETH",
         "decimals": 18
       },
-      {
-        "name": "Axelar Wrapped USDC",
-        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
-        "symbol": "axlUSDC",
-        "decimals": 6
-      },
+
       {
         "name": "Matic Token",
         "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
         "symbol": "MATIC",
         "decimals": 18
       },
-      {
-        "name": "Mendi Token",
-        "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
-        "symbol": "MENDI",
-        "decimals": 18
-      },
+
       {
         "name": "Dai Stablecoin",
         "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
@@ -100,90 +72,14 @@
         "symbol": "BNB",
         "decimals": 18
       },
-      {
-        "name": "Gravita Debt Token",
-        "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
-        "symbol": "GRAI",
-        "decimals": 18
-      },
-      {
-        "address": "0x82cC61354d78b846016b559e3cCD766fa7E793D5",
-        "decimals": 18,
-        "name": "Linda",
-        "symbol": "LINDA"
-      },
-      {
-        "address": "0xC308c807bf32BD26EE249DEaaA6e04abA463962d",
-        "decimals": 18,
-        "name": "MCLB",
-        "symbol": "MCLB"
-      },
-      {
-        "address": "0x2cEFbC78f01590a8961fF9d282726B64635BCb44",
-        "decimals": 18,
-        "name": "Insane Technology Index",
-        "symbol": "ITX"
-      },
-      {
-        "address": "0x21d624c846725ABe1e1e7d662E9fB274999009Aa",
-        "decimals": 18,
-        "name": "CRYSTAL",
-        "symbol": "CRYSTAL"
-      },
+
       {
         "name": "Renzo Restaked ETH",
         "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
         "decimals": 18,
         "symbol": "ezETH"
       },
-      {
-        "address": "0x0449eCb33b40555bd957190C25eCCce2CDB6b631",
-        "decimals": 18,
-        "name": "YieldFarming Index (OLD)",
-        "symbol": "YFX"
-      },
-      {
-        "address": "0x783d06DB0A46CFD0c18411F0904833D52e9E1eDc",
-        "decimals": 18,
-        "name": "Bridged YieldFarming Index (OLD)",
-        "symbol": "YFX.b"
-      },
-      {
-        "address": "0x2dA5767105072d111f28344E05b5cF4Eb809ca5A",
-        "decimals": 18,
-        "name": "Layer Zero YFX",
-        "symbol": "lzYFX"
-      },
-      {
-        "address": "0x8cf881799E3B5ab24271A9B66b6Ca2b0e575B1ef",
-        "decimals": 18,
-        "name": "fBOMB",
-        "symbol": "fBOMB"
-      },
-      {
-        "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
-        "decimals": 18,
-        "name": "Frax Ether (AXELAR)",
-        "symbol": "axlfrxETH"
-      },
-      {
-        "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
-        "decimals": 18,
-        "name": "Axelar Wrapped FRAX",
-        "symbol": "axlFRAX"
-      },
-      {
-        "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
-        "decimals": 18,
-        "name": "Mai Stablecoin",
-        "symbol": "MAI"
-      },
-      {
-        "address": "0x889400fB9BDE04BFdf353cC718fED3d6dDcF735F",
-        "decimals": 18,
-        "name": "frogwifcat",
-        "symbol": "WEF"
-      },
+
       {
         "address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
         "decimals": 18,
@@ -202,12 +98,7 @@
         "decimals": 18,
         "symbol": "wrsETH"
       },
-      {
-        "address": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
-        "decimals": 18,
-        "name": "Linus Token",
-        "symbol": "LINUS"
-      },
+
       {
         "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
         "decimals": 18,
@@ -220,190 +111,52 @@
         "name": "ZeroLend",
         "symbol": "ZERO"
       },
-      {
-        "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
-        "decimals": 18,
-        "name": "InceptionLRT restaked ETH",
-        "symbol": "inETH"
-      },
+
       {
         "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
         "decimals": 18,
         "name": "USDe",
         "symbol": "USDe"
       },
-      {
-        "address": "0x561890F5D43e3d12b5f9C8c1E95cFBfBFEF9753b",
-        "decimals": 18,
-        "name": "Paladin Token",
-        "symbol": "PAL"
-      },
-      {
-        "address": "0x59846bfC18FC21dF6Bed378748F99eA38F44d50a",
-        "decimals": 6,
-        "name": "Layzer Zero Insane Technology",
-        "symbol": "lzIT"
-      },
-      {
-        "address": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
-        "decimals": 18,
-        "name": "Free Bridged SolvBTC",
-        "symbol": "SolvBTC.m"
-      },
-      {
-        "address": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
-        "decimals": 18,
-        "name": "Lyve Debt Token",
-        "symbol": "LYU"
-      },
-      {
-        "address": "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
-        "decimals": 18,
-        "name": "ONEPUNCH",
-        "symbol": "ONEPUNCH"
-      },
+
+
       {
         "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
         "decimals": 18,
         "name": "CROAK",
         "symbol": "CROAK"
       },
-      {
-        "address": "0xb55e892D38056481BB5bB361EdDbc8c2c1477827",
-        "decimals": 18,
-        "name": "LYVE",
-        "symbol": "LYVE"
-      },
-      {
-        "address": "0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763",
-        "decimals": 18,
-        "name": "Aladdin rUSD",
-        "symbol": "arUSD"
-      },
-      {
-        "address": "0xd08C3F25862077056cb1b710937576Af899a4959",
-        "decimals": 18,
-        "name": "inception Restaked stETH",
-        "symbol": "instETH"
-      },
-      {
-        "address": "0xB838Eb4F224c2454F2529213721500faf732bf4d",
-        "decimals": 18,
-        "name": "Affine ultraETHs 2.0",
-        "symbol": "ultraETHs"
-      },
+
+
       {
         "address": "0x2a4f1dcc79b83608f9e3BC1F3F55fBEfCBFaE885",
         "decimals": 18,
         "name": "agETHWrapper",
         "symbol": "agETH"
       },
-      {
-        "address": "0x373d04A7F3594FF9011Af5084587182C0056721e",
-        "decimals": 18,
-        "name": "Faith - LordsForsaken.com",
-        "symbol": "FAITH"
-      },
-      {
-        "address": "0x46bf60bd1d8e61fe8975b4122224f8ed81c1164f",
-        "decimals": 18,
-        "name": "Alpha Card Pack - LordsForsaken.com",
-        "symbol": "LORDα"
-      },
-      {
-        "address": "0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
-        "decimals": 18,
-        "name": "Genesis",
-        "symbol": "GENESIS"
-      },
-      {
-        "address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
-        "decimals": 18,
-        "name": "Linpuss",
-        "symbol": "LPUSS"
-      },
-      {
-        "address": "0xEBde02166CF5e9CE2DBf27895AFF3FFD0055b873",
-        "decimals": 18,
-        "name": "Tbh Creature Yippee",
-        "symbol": "TBH"
-      },
-      {
-        "address": "0x092b9E25a7D143c83D44c27194F5CeE7c1150F22",
-        "decimals": 18,
-        "name": "CatWifCap",
-        "symbol": "CWC"
-      },
-      {
-        "address": "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
-        "decimals": 18,
-        "name": "L.I.N.E.A - Lost In Never Ending Airdrop",
-        "symbol": "LINEA"
-      },
-      {
-        "address": "0x880A3Ae90f989030708A529ABd841589053c1dC2",
-        "decimals": 18,
-        "name": "Beaver Coin",
-        "symbol": "BEAVER"
-      },
-      {
-        "address": "0x45229ac791C56cb86Fc1972F3082dAb19385dfA2",
-        "decimals": 18,
-        "name": "Foxx Of Linea",
-        "symbol": "FOXX"
-      },
-      {
-        "address": "0x5860a0bF37133f8461b2DEDe7C80e55D6bfF3721",
-        "decimals": 18,
-        "name": "Frax Share (AXELAR)",
-        "symbol": "axlFXS"
-      },
+
+
+
+
+
       {
         "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5",
         "decimals": 18,
         "name": "Frax Share",
         "symbol": "FXS"
       },
-      {
-        "address": "0x8b9bB9c309E1838a2d9e435eBac3E8d928354215",
-        "decimals": 18,
-        "name": "Froxy",
-        "symbol": "FROXY"
-      },
+
       {
         "address": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
         "name": "OFFICIAL TRUMP",
         "symbol": "TRUMP",
         "decimals": 18
       },
-      {
-        "address": "0x464946f3f004b37014D272d6195aC131Eb54B94d",
-        "name": "Carrot",
-        "symbol": "CARROT",
-        "decimals": 18
-      },
-      {
-        "address": "0xc59d7bD763d4B0DFE9293eDAE91cfe385E0e6a20",
-        "name": "FrensAutomator Token",
-        "symbol": "FRENS",
-        "decimals": 18
-      },
-      {
-        "address": "0xe684c87C6Ec06BD002a71ffd0A6638C280e82FBa",
-        "name": "THANOS WAS RIGHT",
-        "symbol": "TWR",
-        "decimals": 18
-      },
+
       {
         "address": "0xC7346783f5e645aa998B106Ef9E7f499528673D8",
         "name": "Frax USD",
         "symbol": "frxUSD",
-        "decimals": 18
-      },
-      {
-        "address": "0xaD09085191216a94FA1Fd2A790E48e734602a869",
-        "name": "Constellation ETH",
-        "symbol": "xrETH",
         "decimals": 18
       },
       {
@@ -453,12 +206,6 @@
         "name": "Eliteness.Network",
         "symbol": "ELITE",
         "decimals": 18
-      },
-      {
-        "address": "0x8f1Be863DcD509b161fd1763ee6841D2fC9468Ee",
-        "name": "HLP0",
-        "symbol": "HLP0",
-        "decimals": 6
       }
     ]
   ],
