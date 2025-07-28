@@ -1,0 +1,32 @@
+{
+  "name": "HyperRAM: token List",
+  "logoURI": "",
+  "timestamp": "2029-01-27T14:33:26.183301",
+  "tokens": [
+    [
+      {
+        "name": "USD₮0",
+        "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+        "symbol": "USD₮0",
+        "decimals": 6
+      },
+      {
+        "name": "Wrapped HYPE",
+        "address": "0x5555555555555555555555555555555555555555",
+        "symbol": "WHYPE",
+        "decimals": 18
+      },
+      {
+        "name": "HLP0",
+        "address": "0x3D75F2BB8aBcDBd1e27443cB5CBCE8A668046C81",
+        "symbol": "HLP0",
+        "decimals": 6
+      }
+    ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Fluid USDC",
+  "symbol": "fUSDC",
+  "type": "ERC20",
+  "decimals": 6,
+  "id": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A"
+}
