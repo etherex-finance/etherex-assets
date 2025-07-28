@@ -28,35 +28,30 @@
         "symbol": "WBTC",
         "decimals": 8
       },
-
       {
         "name": "Wrapped Staked Ether",
         "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
         "symbol": "wstETH",
         "decimals": 18
       },
-
       {
         "name": "Matic Token",
         "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
         "symbol": "MATIC",
         "decimals": 18
       },
-
       {
         "name": "Dai Stablecoin",
         "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
         "symbol": "DAI",
         "decimals": 18
       },
-
       {
         "name": "Renzo Restaked ETH",
         "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
         "decimals": 18,
         "symbol": "ezETH"
       },
-
       {
         "address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
         "decimals": 18,
@@ -75,7 +70,6 @@
         "decimals": 18,
         "symbol": "wrsETH"
       },
-
       {
         "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
         "decimals": 18,
@@ -88,48 +82,36 @@
         "name": "ZeroLend",
         "symbol": "ZERO"
       },
-
       {
         "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
         "decimals": 18,
         "name": "USDe",
         "symbol": "USDe"
       },
-
-
       {
         "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
         "decimals": 18,
         "name": "CROAK",
         "symbol": "CROAK"
       },
-
-
       {
         "address": "0x2a4f1dcc79b83608f9e3BC1F3F55fBEfCBFaE885",
         "decimals": 18,
         "name": "agETHWrapper",
         "symbol": "agETH"
       },
-
-
-
-
-
       {
         "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5",
         "decimals": 18,
         "name": "Frax Share",
         "symbol": "FXS"
       },
-
       {
         "address": "0xea3910f1C6E687B59835885904A2FD1944B51Ec6",
         "name": "OFFICIAL TRUMP",
         "symbol": "TRUMP",
         "decimals": 18
       },
-
       {
         "address": "0xC7346783f5e645aa998B106Ef9E7f499528673D8",
         "name": "Frax USD",
@@ -154,7 +136,6 @@
         "symbol": "alUSD",
         "decimals": 18
       },
-
       {
         "address": "0xB1aFD04774c02AE84692619448B08BA79F19b1ff",
         "name": "Frax Ether",
@@ -177,6 +158,12 @@
         "address": "0x30C8Cf6B46AA4DF3F9fbC2857aca92F10a6cAd7f",
         "name": "Eliteness.Network",
         "symbol": "ELITE",
+        "decimals": 18
+      },
+      {
+        "address": "0xa500000000e482752f032eA387390b6025a2377b",
+        "name": "Astera USD",
+        "symbol": "asUSD",
         "decimals": 18
       }
     ]
