@@ -1,5 +1,5 @@
 {
-  "name": "NILE: Linea List",
+  "name": "Etherex: Token List",
   "logoURI": "",
   "timestamp": "2022-01-27T14:33:26.183301",
   "tokens": [
@@ -28,12 +28,7 @@
         "symbol": "WBTC",
         "decimals": 8
       },
-      {
-        "name": "Liquity USD",
-        "address": "0x63bA74893621d3d12F13CEc1e86517eC3d329837",
-        "symbol": "LUSD",
-        "decimals": 18
-      },
+
       {
         "name": "Wrapped Staked Ether",
         "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
@@ -52,24 +47,6 @@
         "name": "Dai Stablecoin",
         "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
         "symbol": "DAI",
-        "decimals": 18
-      },
-      {
-        "name": "Binance USD",
-        "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
-        "symbol": "BUSD",
-        "decimals": 18
-      },
-      {
-        "name": "Avalanche",
-        "address": "0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4",
-        "symbol": "AVAX",
-        "decimals": 18
-      },
-      {
-        "name": "Binance Coin",
-        "address": "0xf5C6825015280CdfD0b56903F9F8B5A2233476F5",
-        "symbol": "BNB",
         "decimals": 18
       },
 
@@ -177,12 +154,7 @@
         "symbol": "alUSD",
         "decimals": 18
       },
-      {
-        "address": "0x34B5c2936DAe6698e54781EDb8B1E69A2C2873F8",
-        "name": "Aryze",
-        "symbol": "RYZE",
-        "decimals": 18
-      },
+
       {
         "address": "0xB1aFD04774c02AE84692619448B08BA79F19b1ff",
         "name": "Frax Ether",
