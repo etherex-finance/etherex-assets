@@ -171,6 +171,12 @@
         "name": "Beaver Coin",
         "symbol": "BEAVER",
         "decimals": 18
+      },
+      {
+        "address": "0xEb1fD1dBB8aDDA4fa2b5A5C4bcE34F6F20d125D2",
+        "name": "Donald Toad Coin",
+        "symbol": "DTC",
+        "decimals": 18
       }
     ]
   ],
