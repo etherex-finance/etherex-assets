@@ -189,6 +189,12 @@
         "name": "CatWifCap",
         "symbol": "CWC",
         "decimals": 18
+      },
+      {
+        "address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
+        "name": "Linpuss",
+        "symbol": "LPUSS",
+        "decimals": 18
       }
     ]
   ],
