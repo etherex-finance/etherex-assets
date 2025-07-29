@@ -165,6 +165,12 @@
         "name": "Astera USD",
         "symbol": "asUSD",
         "decimals": 18
+      },
+      {
+        "address": "0x880A3Ae90f989030708A529ABd841589053c1dC2",
+        "name": "Beaver Coin",
+        "symbol": "BEAVER",
+        "decimals": 18
       }
     ]
   ],
