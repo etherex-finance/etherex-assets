@@ -177,6 +177,12 @@
         "name": "Donald Toad Coin",
         "symbol": "DTC",
         "decimals": 18
+      },
+      {
+        "address": "0x82cC61354d78b846016b559e3cCD766fa7E793D5",
+        "name": "Linda",
+        "symbol": "LINDA",
+        "decimals": 18
       }
     ]
   ],
