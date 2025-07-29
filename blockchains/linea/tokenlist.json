@@ -195,6 +195,12 @@
         "name": "Linpuss",
         "symbol": "LPUSS",
         "decimals": 18
+      },
+      {
+        "address": "0x48119884e0cfCf90E4035CDCd98fDa4d21966465",
+        "name": "AENIL",
+        "symbol": "AENIL",
+        "decimals": 18
       }
     ]
   ],
