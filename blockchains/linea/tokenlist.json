@@ -225,6 +225,12 @@
         "name": "NILE Token",
         "symbol": "NILE",
         "decimals": 18
+      },
+      {
+        "address": "0x38A67021bBe639caB6120c553719B5CFa60f3F18",
+        "name": "RogueTail",
+        "symbol": "ROGUE",
+        "decimals": 18
       }
     ]
   ],
