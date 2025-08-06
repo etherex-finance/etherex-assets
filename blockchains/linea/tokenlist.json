@@ -213,6 +213,12 @@
         "name": "xREX",
         "symbol": "xREX",
         "decimals": 18
+      },
+      {
+        "address": "0x8cf881799E3B5ab24271A9B66b6Ca2b0e575B1ef",
+        "name": "fBOMB",
+        "symbol": "fBOMB",
+        "decimals": 18
       }
     ]
   ],
