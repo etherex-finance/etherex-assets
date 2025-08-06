@@ -219,6 +219,12 @@
         "name": "fBOMB",
         "symbol": "fBOMB",
         "decimals": 18
+      },
+      {
+        "address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+        "name": "NILE Token",
+        "symbol": "NILE",
+        "decimals": 18
       }
     ]
   ],
