@@ -207,6 +207,12 @@
         "name": "Etherex",
         "symbol": "REX",
         "decimals": 18
+      },
+      {
+        "address": "0xc93B315971A4f260875103F5DA84cB1E30f366Cc",
+        "name": "xREX",
+        "symbol": "xREX",
+        "decimals": 18
       }
     ]
   ],
