@@ -231,6 +231,12 @@
         "name": "RogueTail",
         "symbol": "ROGUE",
         "decimals": 18
+      },
+      {
+        "address": "0xe4eEB461Ad1e4ef8b8EF71a33694CCD84Af051C4",
+        "name": "Etherex Liquid Staking Token",
+        "symbol": "REX33",
+        "decimals": 18
       }
     ]
   ],
