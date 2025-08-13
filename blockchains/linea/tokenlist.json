@@ -237,6 +237,12 @@
         "name": "Etherex Liquid Staking Token",
         "symbol": "REX33",
         "decimals": 18
+      },
+      {
+        "address": "0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841",
+        "name": "Impermax",
+        "symbol": "IBEX",
+        "decimals": 18
       }
     ]
   ],
