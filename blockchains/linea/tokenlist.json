@@ -35,12 +35,6 @@
         "decimals": 18
       },
       {
-        "name": "Matic Token",
-        "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
-        "symbol": "MATIC",
-        "decimals": 18
-      },
-      {
         "name": "Dai Stablecoin",
         "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
         "symbol": "DAI",
