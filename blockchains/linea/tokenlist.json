@@ -249,6 +249,12 @@
         "name": "Linea",
         "symbol": "LINEA",
         "decimals": 18
+      },
+      {
+        "address": "0x0f8487F0B70295b73f08bE04614848c30Eb39F6D",
+        "name": "Staked asUSD",
+        "symbol": "asUSDs",
+        "decimals": 18
       }
     ]
   ],
