@@ -35,12 +35,6 @@
         "decimals": 18
       },
       {
-        "name": "Dai Stablecoin",
-        "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
-        "symbol": "DAI",
-        "decimals": 18
-      },
-      {
         "name": "Renzo Restaked ETH",
         "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
         "decimals": 18,
