@@ -255,6 +255,12 @@
         "name": "U$D",
         "symbol": "U$D",
         "decimals": 6
+      },
+      {
+        "address": "0xD3003060E18A7afC318F050255291078e9cf76B3",
+        "name": "MOTH",
+        "symbol": "MOTH",
+        "decimals": 18
       }
     ]
   ],
