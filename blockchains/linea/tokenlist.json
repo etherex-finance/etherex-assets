@@ -261,6 +261,12 @@
         "name": "MOTH",
         "symbol": "MOTH",
         "decimals": 18
+      },
+      {
+        "address": "0x0c62358178D086ad87717B0d401235628D21a62b",
+        "name": "GMOTH",
+        "symbol": "GMOTH",
+        "decimals": 18
       }
     ]
   ],
