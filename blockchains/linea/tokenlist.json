@@ -267,6 +267,12 @@
         "name": "GMOTH",
         "symbol": "GMOTH",
         "decimals": 18
+      },
+      {
+        "address": "0x67454b41bAF8D29751Cc64f60E3C62B5634567A4",
+        "name": "TBAG",
+        "symbol": "$TBAG",
+        "decimals": 18
       }
     ]
   ],
