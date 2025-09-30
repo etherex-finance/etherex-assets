@@ -273,6 +273,12 @@
         "name": "TBAG",
         "symbol": "$TBAG",
         "decimals": 18
+      },
+      {
+        "address": "0x413bF752b33e76562dc876182141e2329716f250",
+        "name": "Staked Stream USD",
+        "symbol": "xUSD",
+        "decimals": 6
       }
     ]
   ],
