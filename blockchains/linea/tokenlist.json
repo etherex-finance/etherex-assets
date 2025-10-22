@@ -279,6 +279,12 @@
         "name": "Staked Stream USD",
         "symbol": "xUSD",
         "decimals": 6
+      },
+      {
+        "address": "0x56aa6D651bfefA9207B35E508716466359BAe8eF",
+        "name": "Turtle",
+        "symbol": "TURTLE",
+        "decimals": 18
       }
     ]
   ],
