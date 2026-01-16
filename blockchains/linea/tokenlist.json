@@ -291,6 +291,12 @@
         "name": "Aryze",
         "symbol": "RYZE",
         "decimals": 18
+      },
+      {
+        "address": "0x37c44fc08e403Efc0946C0623CB1164A52CE1576",
+        "name": "avUSD",
+        "symbol": "avUSD",
+        "decimals": 18
       }
     ]
   ],
