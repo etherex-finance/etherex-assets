@@ -65,12 +65,6 @@
         "symbol": "weETH"
       },
       {
-        "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
-        "decimals": 18,
-        "name": "ZeroLend",
-        "symbol": "ZERO"
-      },
-      {
         "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
         "decimals": 18,
         "name": "USDe",
