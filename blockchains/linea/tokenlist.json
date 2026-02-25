@@ -227,12 +227,6 @@
         "decimals": 6
       },
       {
-        "address": "0xD3003060E18A7afC318F050255291078e9cf76B3",
-        "name": "MOTH",
-        "symbol": "MOTH",
-        "decimals": 18
-      },
-      {
         "address": "0x67454b41bAF8D29751Cc64f60E3C62B5634567A4",
         "name": "TBAG",
         "symbol": "$TBAG",
