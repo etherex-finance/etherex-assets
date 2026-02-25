@@ -221,12 +221,6 @@
         "decimals": 18
       },
       {
-        "address": "0x0f8487F0B70295b73f08bE04614848c30Eb39F6D",
-        "name": "Staked asUSD",
-        "symbol": "asUSDs",
-        "decimals": 18
-      },
-      {
         "address": "0xacA92E438df0B2401fF60dA7E4337B687a2435DA",
         "name": "MetaMask USD",
         "symbol": "mUSD",
