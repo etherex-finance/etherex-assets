@@ -83,12 +83,6 @@
         "symbol": "CROAK"
       },
       {
-        "address": "0x2a4f1dcc79b83608f9e3BC1F3F55fBEfCBFaE885",
-        "decimals": 18,
-        "name": "agETHWrapper",
-        "symbol": "agETH"
-      },
-      {
         "address": "0x5217Ab28ECE654Aab2C68efedb6A22739df6C3D5",
         "decimals": 18,
         "name": "Frax Share",
