@@ -227,12 +227,6 @@
         "decimals": 18
       },
       {
-        "address": "0xcf0f95E34F25d1BB3D9cad3Cbb2EB40dAb7c3841",
-        "name": "Impermax",
-        "symbol": "IBEX",
-        "decimals": 18
-      },
-      {
         "address": "0x1789e0043623282D5DCc7F213d703C6D8BAfBB04",
         "name": "Linea",
         "symbol": "LINEA",
