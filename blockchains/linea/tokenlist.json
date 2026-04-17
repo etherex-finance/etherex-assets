@@ -261,6 +261,12 @@
         "name": "evaUSDT",
         "symbol": "evaUSDT",
         "decimals": 6
+      },
+      {
+        "address": "0xdBECD077c1C2feFDCB75f547d1b5a73BF8207e4C",
+        "name": "evaETH",
+        "symbol": "evaETH",
+        "decimals": 18
       }
     ]
   ],
