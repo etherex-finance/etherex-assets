@@ -267,6 +267,12 @@
         "name": "evaETH",
         "symbol": "evaETH",
         "decimals": 18
+      },
+      {
+        "address": "0xA3C26A308aC52520320ebCAFDBA0bB0Aaa105ee8",
+        "name": "Status Network Token",
+        "symbol": "SNT",
+        "decimals": 18
       }
     ]
   ],
